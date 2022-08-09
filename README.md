@@ -1,0 +1,2 @@
+# Simple-Python-Paper-Trading-Bot
+This is a Very Simple Python Trading bot. For This Part I have Only made Buy and sell command for btc and they are calling each other every 10 not rocket science. In future I will Improve It a Lot add many Strategies and Features also may be UI. DISCLAIMER: I am a Kid Just Started learning About Crypto I am not a professional. This is Just For Fun. And May be my calculation are wrong (ig it is all very good and no problem but in case you find one please tell me)
